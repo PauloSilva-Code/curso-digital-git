@@ -1,4 +1,4 @@
 # curso-digital-git
 
 
-#salvando modificações no git
+##salvando alterações no Git
